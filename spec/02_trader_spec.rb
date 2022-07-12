@@ -9,4 +9,3 @@ describe "day_trader" do
   end
 
 end 
-

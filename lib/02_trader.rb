@@ -30,4 +30,3 @@ def substract(array_of_prices)
       end
     end
   end
-  
